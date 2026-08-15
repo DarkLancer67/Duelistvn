@@ -1,0 +1,18 @@
+h1{
+    color: violet;
+    border: 2px solid powderblue;
+    display: inline-block;
+}
+
+.tieude{
+    color: blue;
+}
+.quaithu{
+    color: peru;
+}
+.maphap{
+    color: forestgreen;
+}
+.baibay{
+    color: deeppink;
+}
