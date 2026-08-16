@@ -17,10 +17,9 @@ h1{
     color: deeppink;
 }
 .card{
-    display: flex;
+ display: flex;
 
     gap: 30px;
 }
 .thongtin{
-    flex: 1;
 }
