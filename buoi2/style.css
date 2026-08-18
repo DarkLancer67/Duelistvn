@@ -1,8 +1,3 @@
-h1{
-    color: violet;
-    border: 2px solid powderblue;
-    display: inline-block;
-}
 
 .tieude{
     color: blue;
@@ -15,11 +10,4 @@ h1{
 }
 .baibay{
     color: deeppink;
-}
-.card{
- display: flex;
-
-    gap: 30px;
-}
-.thongtin{
 }
