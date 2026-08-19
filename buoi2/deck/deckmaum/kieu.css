@@ -1,0 +1,14 @@
+.deckmau{
+    display: flex;
+    margin-top: 30px;
+
+}
+.deckcm:hover{
+     transform: scale(1.1);
+  opacity: 0.8;
+  transition: 0.3s;
+
+}
+.cm{
+    margin-right: 20px;
+}
