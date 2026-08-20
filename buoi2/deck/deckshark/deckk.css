@@ -1,0 +1,41 @@
+
+html, body{
+  background-color: black;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+  transition: 0.3s;
+  gap: 20px;
+}
+
+
+.extra{
+  color: white;
+}
+.card-container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.maindeck{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.gioithieu{
+  width: 80%;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+}
+.deck{
+   width: 45%;
+   color: white;
+}
+.chinh{
+  text-align: center;
+}
