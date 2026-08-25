@@ -18,3 +18,13 @@ body{
 .chinh{
     color: white;
 }
+.main{
+    border: 2px solid white;
+  padding: 20px;
+  height: 300px;
+}
+.extra{
+    border: 2px solid white;
+      padding: 20px;
+  height: 200px;
+}
