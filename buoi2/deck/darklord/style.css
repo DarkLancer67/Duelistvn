@@ -1,30 +1,28 @@
-.khunglon{
+body {
+    background-color: black;
+}
+
+.khunglon {
     width: 80%;
     margin: 0 auto;
     display: flex;
-   
+    justify-content: center;
+    gap: 40px;
 }
-.khungnho{
-   width: 80%;
-   margin: 0 auto;
-   justify-content: center ;
-   flex-wrap: wrap;
-  justify-content: space-between;
-   display: flex;
+
+.bo {
+    text-align: center;
 }
-body{
-    background-color: black;
-}
-.chinh{
+
+.chinh {
     color: white;
 }
-.main{
+
+.main,
+.extra {
     border: 2px solid white;
-  padding: 20px;
-  height: 300px;
-}
-.extra{
-    border: 2px solid white;
-      padding: 20px;
-  height: 200px;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    box-sizing: border-box;
 }
